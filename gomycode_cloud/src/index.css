@@ -1,0 +1,27 @@
+.landing{
+  background-image: url('https://img.freepik.com/vecteurs-libre/illustration-skyline-silhouette_53876-78786.jpg?w=740&t=st=1684860134~exp=1684860734~hmac=4dfb9a2074f904ad538fd27569af4c5bc51d6614d511500adb507b512663fbba');
+  margin-bottom: 10px;
+}
+.intro{
+  text-align: center;
+  color: black;
+  font-size: 1.1rem;
+  font-weight: bold;
+}
+.imgMockup{
+  width: 320px;
+  margin-top: -10px;
+}
+.textSection{
+  text-align: center;
+}
+.navbar{
+  padding: 25px;
+}
+.logo{
+  font-family: 'Zeyada', cursive;
+  font-size: 36px;
+}
+.nav-link{
+  padding: 15px
+}
